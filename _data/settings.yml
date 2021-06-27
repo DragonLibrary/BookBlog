@@ -1,12 +1,13 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-header_text_color: "#ffffff"
-footer_text: Copyright 2021 Your name
+title: Hungry Yellow Bees
+description: A book blog for observation, commentary, and personal writings.
+footer_text: Copyright 2021
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+header_text: Some dragons hoard gold. Others hoard books.
+header_text_color: "#ffffff"
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
+items: []

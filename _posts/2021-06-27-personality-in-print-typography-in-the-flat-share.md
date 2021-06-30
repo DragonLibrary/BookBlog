@@ -2,6 +2,7 @@
 layout: post
 title: "Personality in Print: Typography in 'The Flat Share'"
 date: 2021-06-30T17:30:36.518Z
+header_feature_image: ../uploads/07a12dc0-0182-485e-9de5-63fbfd714b2c.jpeg
 title_color: "#ffffff"
 comments: false
 tags:

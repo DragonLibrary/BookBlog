@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Tone the Responsibility of Typeface?
-date: 2021-07-08T12:44:03.536Z
+date: 2021-07-07T17:00:03.536Z
 title_color: "#ffffff"
 comments: false
 tags:

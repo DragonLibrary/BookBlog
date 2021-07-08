@@ -2,6 +2,7 @@
 layout: post
 title: Is Tone the Responsibility of Typeface?
 date: 2021-07-07T17:00:03.536Z
+header_feature_image: ../uploads/article3-headerimage-byamadorloureiro-.jpg
 title_color: "#ffffff"
 comments: false
 tags:

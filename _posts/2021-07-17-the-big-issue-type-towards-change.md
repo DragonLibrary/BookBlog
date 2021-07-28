@@ -2,7 +2,7 @@
 layout: post
 title: "'The Big Issue': Type Towards Change"
 date: 2021-07-21T17:00:31.010Z
-header_feature_image: ../uploads/article4-magazinecovers.jpg
+header_feature_image: ../uploads/article4-magazinecovers-cropped-.jpg
 title_color: "#ffffff"
 comments: false
 tags:

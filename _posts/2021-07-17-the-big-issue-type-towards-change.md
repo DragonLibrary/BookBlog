@@ -18,7 +18,7 @@ Information around the title is less "confrontational". The lower size and thinn
 
 ![](../uploads/article4-redlogo.jpg)
 
-The traditional logo encapsulates the title of the magazine, as it is almost a replica. There are only two differences: the colour, and the box. A vibrant red replaces the previous black. This could be for two reasons. The first is aesthetic, as the black-and-white will pair better and be more legible on the variety of designs on the magazine covers. The second is to attract attention. A bold red logo is more likely to catch attention due to human colour recognition; red is a danger colour that demands attention. Exactly like the intentions of the charity, drawing attention to the risk homelessness poses to society and its victims.
+The traditional logo encapsulates the title of the magazine, as it is almost a replica. There are only two differences: the colour, and the box. A vibrant red replaces the previous black. There are two main possibilities as to why. The first is aesthetic; the black-and-white will pair better and be more legible on the variety of designs on the magazine covers. The second is to attract attention. A bold red logo is more likely to catch attention due to human colour recognition; red is a danger colour that demands attention. Exactly like the intentions of the charity, drawing attention to the risk homelessness poses to society and its victims.
 
 Within the covers are an assortment of fonts. The main variations are for advertisements, and the subtitles and quotes. The former are paying for the space in the magazine and therefore control how those pages are designed, down to the typeface in order to represent their ideals rather than *The Big Issue*'s.
 

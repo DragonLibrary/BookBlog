@@ -22,4 +22,4 @@ The traditional logo encapsulates the title of the magazine, as it is almost a r
 
 Within the covers are an assortment of fonts, varying greatly between and within the layout of the page. These are chosen, presumably, to suit the context of the articles and theme of the issue. The variation is incredibly vast across the hundreds of issues published, with novelty fonts featuring heavily in the repertoire of the charity. However, the fonts within the pages tend to be uniform across the articles. 
 
-Type in the
+Type in *The Big Issue* is not particularly captivating.

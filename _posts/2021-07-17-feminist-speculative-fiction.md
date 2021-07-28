@@ -2,6 +2,7 @@
 layout: post
 title: Feminist Speculative Fiction
 date: 2021-07-14T17:00:05.098Z
+header_feature_image: ../uploads/img_0834.jpg
 title_color: "#ffffff"
 comments: false
 tags:

@@ -16,6 +16,8 @@ The logo on the cover of their weekly magazine is very simple. A monocoloured bl
 
 Information around the title is less "confrontational". The lower size and thinner line weight avoid diverting attention from the main title, while remaining in the same typeface to provide a more cohesive design. These details are differentiated within themselves as well. The issue number and tagline are not in bold, unlike the rest of the logo, but remain monospaced despite the different line weight, adding a point of interest without contrasting in a jarring manner.
 
+![](../uploads/article4-redlogo.jpg)
+
 The traditional logo encapsulates the title of the magazine, as it is almost a replica. There are only two differences: the colour, and the box. A vibrant red replaces the previous black. This could be for two reasons. The first is aesthetic, as the black-and-white will pair better and be more legible on the variety of designs on the magazine covers. The second is to attract attention. A bold red logo is more likely to catch attention due to human colour recognition; red is a danger colour that demands attention. Exactly like the intentions of the charity, drawing attention to the risk homelessness poses to society and its victims.
 
 Within the covers are an assortment of fonts. The main variations are for advertisements, and the subtitles and quotes. The former are paying for the space in the magazine and therefore control how those pages are designed, down to the typeface in order to represent their ideals rather than *The Big Issue*'s.

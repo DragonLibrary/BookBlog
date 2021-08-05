@@ -2,7 +2,7 @@
 layout: post
 title: "Shaping Negative Space: 'Howl's Moving Castle'"
 date: 2021-07-28T17:00:34.298Z
-header_feature_image: ../uploads/img_0852.jpg
+header_feature_image: ../uploads/img_0852.2.jpg
 title_color: "#ffffff"
 comments: false
 tags:

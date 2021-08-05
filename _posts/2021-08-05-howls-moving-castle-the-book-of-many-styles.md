@@ -8,4 +8,4 @@ comments: false
 tags:
   - ""
 ---
-*Howl's Moving Castle* tells the tale of Sophie Hatter, a young woman cursed with age, who goes on a quest to regain her youth. She makes a deal with living fire, becomes the bane of a renowned and feared sorcerer's life, and grumbles about spiders. So why does this vivid fairytale have a clunky block font for its title, a dramatic and ornate swirl
+*Howl's Moving Castle* tells the tale of Sophie Hatter, a young woman cursed with age, who goes on a quest to regain her youth. She makes a deal with living fire, becomes the bane of a renowned and feared sorcerer's life, and grumbles about spiders. So why does this vivid fairytale have a clunky block font for its title, a dramatic and ornate swirl for the author's name, non-descript high contrast for the typeface, and enough illustrations for at least three

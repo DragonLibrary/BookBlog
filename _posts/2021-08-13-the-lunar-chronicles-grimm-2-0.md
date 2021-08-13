@@ -1,0 +1,10 @@
+---
+layout: post
+title: "'The Lunar Chronicles': Grimm 2.0"
+date: 2021-08-11T17:00:18.672Z
+title_color: "#ffffff"
+comments: false
+tags:
+  - ""
+---
+Marissa Meyer wrote *The Lunar Chronicles* as a reimagining of classic and beloved childhood. But the tales of Grimm received upgrades and cybernetic prosthetics in this version.

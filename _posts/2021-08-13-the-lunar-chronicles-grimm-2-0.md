@@ -7,4 +7,4 @@ comments: false
 tags:
   - ""
 ---
-Marissa Meyer wrote *The Lunar Chronicles* as a reimagining of classic and beloved childhood. But the tales of Grimm received upgrades and cybernetic prosthetics in this version.
+Marissa Meyer wrote *The Lunar Chronicles* as a reimagining of classic and beloved childhood. But the tales of Grimm received upgrades and cybernetic prosthetics in this version. On 126 T.E.'s Earth, Cinderella is a cyborg, Scarlett rides spaceships, Cress orbits Earth in a spy satellite, and Winter is an insane princess on the moon.

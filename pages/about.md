@@ -1,20 +1,17 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+subtitle: Welcome to the library...
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+The *Library of Spilt Ink* is one individual's musings on literature. Primarily (at present) focusing on the meaning behind the cover design of favourite novels and media, this blog aims to explore paratextual choices. At a later date, this may develop into other areas of writing, but for now, let's look at ink-stained covers and the tales lurking within them.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Credit for the logo design goes to the artists at The New Quarterly, whose image from https://tnq.cadont-let-writers-cry-spilled-ink was adapted to create the logo for this blog. Changes are pending to avoid infringing on their creative content rights.

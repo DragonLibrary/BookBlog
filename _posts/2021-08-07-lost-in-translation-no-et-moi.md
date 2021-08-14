@@ -11,4 +11,4 @@ People often compare British and American book covers, comparing their colouring
 
 France's *Le Livre de Poche* imprint will serve as the country's representative. The design is simple and lacks decorative elements. A photograph, presumably from the film adaption, serves as background and focal point. No and Lou stare at something offscreen, in matching knit hats. No is in focus in the foreground, looking up. Meanwhile Lou's blurred face is in the background, head craned slightly to see what No sees. The two cover the page as they fill and guide the plot of le roman. Other than the necessary text to identify title and author, the only other adornment is the imprint logo in the bottom corner. Of the text, the two typefaces contrast greatly.
 
-*No et Moi* is a simple, sans-serif capitalised type in pink
+*No et Moi* is a simple, sans-serif capitalised type in pink. It is reminiscent of a font to be used in the presentation Lou is working to at the book's beginning.

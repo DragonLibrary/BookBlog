@@ -18,7 +18,7 @@ So why did this marvel of a font begin to engender such vigorous distaste within
 
 Helvetica began to shift in the mind of certain generations as a symbol of authoritarianism. Its blank shapes and lack of personality meant it was without the personality and individuality that the audience sought. They also associated it with the large conglomerates and businesses that were unpopular due to being symbolic of what was considered an oppressive state and culture/society. Typographers began to yearn for more tailored, specialised fonts with greater focus; they sought to rise above the tide of generic that is Helvetica's omnipresence by prioritising focused types. This distaste in the industry continues.
 
-So like Marmite, Helvetica has two audiences in those who are truly aware of it (rather than the blankness of the general populace who do not recognise Helvetica as a typeface). Those who love it for its simplicity, neutrality and prevalence. And those who despise for those same reasons.
+So like Marmite, Helvetica has two audiences in those who are truly aware of it (rather than the blankness of the general populace who do not recognise Helvetica as a typface). Those who love it for its simplicity, neutrality and prevalence. And those who despise for those same reasons.
 
 
 

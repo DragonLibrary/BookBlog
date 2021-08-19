@@ -17,4 +17,6 @@ France's *Le Livre de Poche* imprint will serve as the country's representative.
 
 De Vigan's name is more elaborate, but still not particularly excessive, and contrasts greatly against that of the title. The sizing changes for each word, as if building up to De Vigan's final name. The weight is varied, with certain strokes (such as the of the V) being as slender as the serifs while others (including the bowl of the Ds) are at least treble the thickness. Contrast, in this typeface, provides a more 'traditionally French' (to this Brit) aesthetic.  This combination also creates a more sophisticated tone than that of the story. Combining this with the colouring of De Vigan's lettering, a stark white (hexcode fafff8), the author is distinct from both story and novel. She, and the brand logo in the corner, are the anomalous elements, as they do not exist as part of the narrative but as the paratext and context.
 
-As with the markets, the British cover differs greatly from the French.
+As with the markets, the British cover differs greatly from the French. This Bloomsbury ebook edition is again one simple image (possibly an edited photograph?), but the English one has far more extraneous text, and some very different typefaces. Even the blurb changes significantly between the original and the translation.
+
+Beginning the comparison is the image. Here, the focal image is a place rather than people. The blurb features the train station where No and Lou meet, with the cover reflecting this location. The lamppost

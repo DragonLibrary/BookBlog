@@ -2,6 +2,7 @@
 layout: post
 title: "Lost in Translation: 'No et Moi'"
 date: 2021-08-04T17:00:24.172Z
+header_feature_image: ../uploads/article6-headerimage.jpg
 title_color: "#ffffff"
 comments: false
 tags:

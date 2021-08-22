@@ -11,4 +11,4 @@ Cornelia Funke left the world of *Inkheart* and dreamt up Jacob Reckless' *Mirro
 
 ![](../uploads/article7-originalcovers.jpg)
 
-Upon its release in 2010, Funke had two separate hardbacks released. One with Little Brown, featuring the Goyl-jade skin of Will, gazing back at the viewer from the mirror through which the curse resides; the other, from Chicken House, fixes golden-amber eyes upon the reader from the glimmer of marble-like skin, the expression seemingly that of prey both angered and panicked.
+Upon its release in 2010, Funke had two separate hardbacks released. One with Little Brown, featuring the Goyl-jade skin of Will, gazing back at the viewer from the mirror through which the curse resides; the other, from Chicken House, fixes golden-amber eyes upon the reader from the glimmer of marble-like skin, the expression seemingly that of prey both angered and panicked. Then yet another cover was created for the 2013 paperback editions following the release of its sequel *Fearless*.

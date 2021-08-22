@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is it 'Reckless' to Change Style?
-date: 2021-08-07T12:54:17.873Z
+date: 2021-08-11T17:00:17.873Z
 title_color: "#ffffff"
 comments: false
 tags:

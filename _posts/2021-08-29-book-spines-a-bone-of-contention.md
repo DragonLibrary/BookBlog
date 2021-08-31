@@ -7,6 +7,8 @@ comments: false
 tags:
   - ""
 ---
-Having recently been exploring Bookstagram, curious searches have uncovered the old trend of the shelfie. Looking at the curated bookcases with their arrangements, carefully ordered stacks, and chosen trinkets, a thought occurred. Why are spines not used more?
+Having recently been exploring bookstagram and BookTube, curious searches have uncovered the old trend of the shelfie. Looking at the curated bookcases with their arrangements, carefully ordered stacks, and chosen trinkets, a thought occurred. Why are spines not used more?
 
-Much digital ink has been spilt on the virtues of cover design. Yet so often, when shopping in person, the first part of a book seen is the spine. So why is it not being used more often as a way to draw attention to the book?
+Much digital ink has been spilt on the virtues of cover design. Yet so often, when shopping in person, the first part of a book seen is the spine. So why is it not being used more often as a way to draw attention to the book? Cover design is a major part of both the production and marketing processes of a book. It shows major aspects of the book, such as genre, key aspects, themes and characters, and even plot details in some cases. Yet, while the covers are often gazed at with longing and transferred to marketing and promotional materials, such as postcards, bookmarks and posters. Why is this not the case with book spines?
+
+Chipp Kid's TED talk *[The hilarious art of book design](https://www.youtube.com/watch?v=cC0KxNeLp1E)* features covers ranging from the iconic to the intriguing

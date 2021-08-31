@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'The Lunar Chronicles': Grimm 2.0"
-date: 2021-08-18T17:00:18.672Z
+date: 2021-09-01T17:00:18.672Z
 title_color: "#ffffff"
 comments: false
 tags:

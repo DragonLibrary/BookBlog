@@ -21,4 +21,8 @@ Thirdly comes the opportunity for further editions. One incredible feature some 
 
 Finally, a fourth possibility is simply series sales. A debut author will likely not be publishing a large series requiring cohesive designs as their first publication. They are unlikely to be releasing an extensive grand saga that could benefit from grand, matching, iconic spines- not right away. So long as a new book with no pre-existing audience has a clear and attractive cover with a legible spine that pairs with the covers, the box is checked. It takes additional planning to create an extravagant cover. And as the series develops, so will the style of the covers to continue to match the books as they are released. Later editions are better suited to matching covers, as discussed in the point above. So attempting ornate and lavish covers for a first-time author may be a wasted effort if they do not have the audience base to support their sales.
 
-With these perfectly valid reasons, why are book spines still a frustration? There are many beautiful book spines. There are many matching or coordinated spines. There are even functional spines that still suit the purpose and have a bizarre appeal to them.
+With these perfectly valid reasons, why are book spines still a frustration? There are many beautiful book spines. There are many matching or coordinated spines. There are even functional spines that still suit the purpose and have a bizarre appeal to them. Why do they still irritate?
+
+Simple. Inconsistency.
+
+There are two forms of this inconsistency. Inconsistency with the cover and story; and inconsistency with others in the series.

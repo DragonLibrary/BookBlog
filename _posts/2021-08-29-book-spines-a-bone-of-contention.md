@@ -26,3 +26,5 @@ With these perfectly valid reasons, why are book spines still a frustration? The
 Simple. Inconsistency.
 
 There are two forms of this inconsistency. Inconsistency with the cover and story; and inconsistency with others in the series.
+
+Most books are seen spine-first when browsing in person. How many books are passed over because an incredible story has been saddled with a lackluster spine? How many have typefaces so stylised or chunky that the casual reader will skip over?

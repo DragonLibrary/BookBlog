@@ -21,10 +21,12 @@ Thirdly comes the opportunity for further editions. One incredible feature some 
 
 Finally, a fourth possibility is simply series sales. A debut author will likely not be publishing a large series requiring cohesive designs as their first publication. They are unlikely to be releasing an extensive grand saga that could benefit from grand, matching, iconic spines- not right away. So long as a new book with no pre-existing audience has a clear and attractive cover with a legible spine that pairs with the covers, the box is checked. It takes additional planning to create an extravagant cover. And as the series develops, so will the style of the covers to continue to match the books as they are released. Later editions are better suited to matching covers, as discussed in the point above. So attempting ornate and lavish covers for a first-time author may be a wasted effort if they do not have the audience base to support their sales.
 
-With these perfectly valid reasons, why are book spines still a frustration? There are many beautiful book spines. There are many matching or coordinated spines. There are even functional spines that still suit the purpose and have a bizarre appeal to them. Why do they still irritate?
+With these perfectly valid reasons, why are book spines still a frustration? There are many beautiful book spines. There are many matching or coordinated spines. There are even functional spines that still suit the purpose and have aesthetic appeal to them. Why are they still an irritation?
 
 Simple. Inconsistency.
 
 There are two forms of this inconsistency. Inconsistency with the cover and story; and inconsistency with others in the series.
 
-Most books are seen spine-first when browsing in person. How many books are passed over because an incredible story has been saddled with a lackluster spine? How many have typefaces so stylised or chunky that the casual reader will skip over? Misleading cover art (the spine being part of the cover) is a misrepresentation of the book and
+Most books are seen spine-first when browsing in person. How many books are passed over because an incredible story has been saddled with a lackluster spine? How many have typefaces so stylised or chunky that the casual reader will skip over? Misleading cover art (the spine being part of the cover) is a misrepresentation of the book and therefore means readers may be dissatisfied or overlook the book.
+
+And there are few things more frustrating than collecting a series with exceptional cover art, and then it being changed halfway through. Be it a change in illustrative or typographic choices, or even an entire overhaul

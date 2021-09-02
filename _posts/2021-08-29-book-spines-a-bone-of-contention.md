@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Bone to Pick With Book Spines
+title: The Bone to Pick With Book Spines
 date: 2021-08-18T17:00:01.483Z
 title_color: "#ffffff"
 comments: false

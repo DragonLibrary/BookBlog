@@ -2,6 +2,7 @@
 layout: post
 title: The Bone to Pick With Book Spines
 date: 2021-08-18T17:00:01.483Z
+header_feature_image: ../uploads/article8-header-shelfie-.jpg
 title_color: "#ffffff"
 comments: false
 tags:

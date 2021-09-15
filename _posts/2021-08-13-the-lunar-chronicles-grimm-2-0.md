@@ -9,3 +9,5 @@ tags:
   - ""
 ---
 Marissa Meyer wrote *The Lunar Chronicles* as a reimagining of classic and beloved childhood. But the tales of Grimm received upgrades and cybernetic prosthetics in this version. On 126 T.E.'s Earth, Cinderella is a cyborg, Scarlett rides spaceships, Cress orbits Earth in a spy satellite, and Winter is princess of the moon, driven insane by her psychic powers. Meyer merges classic fairy tales and sci-fi tropes into a stunning series that explores what it means to be human, even when you aren't.
+
+That this combination works so well is testament to two things: the enduring versatility of fairy tales in adaptation, and the skilful handling of the works by the author and the team at Puffin. The stories of childhood have been reimagined, interwoven into a single world full of characters with agency and individual intentions that fit together without feeling forced (for the most part).

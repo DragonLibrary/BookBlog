@@ -17,4 +17,4 @@ According to *The Bookseller*, Funke moved from Chicken House (and US counterpoi
 
 So, with an idea of the why this reshaping of the paratext occurred, it is the time to consider if this was a good decision and how it has shaped impressions of the book.
 
-When placed side-by-side, the differences are apparent. The colour palette and illustrations are completely distinct, and the typography of the title is disparate. Although the colouring of the lettering changes, the typeface itself is consistent.
+When placed side-by-side, the differences are apparent. The colour palette and illustrations are completely distinct, and the typography of the title is disparate. Although the colouring of the lettering changes, the typeface itself is consistent for Funke's name. This is likely to match the typeface used for her name on her other novels to have some form of consistency across her works; editions of numerous titles, including *Inkheart*, *Dragon Rider* and *Igraine The Brave* all featured this particular font.

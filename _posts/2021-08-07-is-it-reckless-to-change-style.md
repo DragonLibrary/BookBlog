@@ -16,3 +16,5 @@ Upon its release in 2010, Funke had two separate hardbacks released. One with Li
 According to *The Bookseller*, Funke moved from Chicken House (and US counterpoint Little Brown) to Pushkin Press based on editorial disputes regarding the third novel. As a result, the novel was transferred to new teams with new ideas, inspirations and tastes. These new covers and titles are likely a result. The Pushkin team redesigned the books of Lionel Wigram's translations of Funke's work into English in order to stamp their own mark on them in preparation for the continuation of the series and create a fresh start with Funke and her works. It may also have been necessary if the cover designers or the original team were less willing to share and pass-over their works.
 
 So, with an idea of the why this reshaping of the paratext occurred, it is the time to consider if this was a good decision and how it has shaped impressions of the book.
+
+When placed side-by-side, the differences are apparent.

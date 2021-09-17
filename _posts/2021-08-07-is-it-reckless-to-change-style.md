@@ -2,6 +2,7 @@
 layout: post
 title: Is it 'Reckless' to Change Style?
 date: 2021-08-25T17:00:17.873Z
+header_feature_image: ../uploads/article9-pushkincovers.jpg
 title_color: "#ffffff"
 comments: false
 tags:

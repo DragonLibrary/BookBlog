@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Women as Pets: Selkies and Swan-Women"
-date: 2021-10-08T09:30:45.474Z
+date: 2021-10-06T09:30:45.474Z
 title_color: "#ffffff"
 comments: false
 tags:

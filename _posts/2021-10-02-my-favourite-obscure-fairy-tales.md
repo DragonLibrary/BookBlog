@@ -21,7 +21,7 @@ Collected by Jon Arnason, an Icelandic scholar from the nineteenth century. A lo
 
 Another Icelandic tale. The oddly dressed imp completing an impossible task is replaced with a crone offering to spin wool for a lazy farmer's wife. Both feature enigmatic payments and salvation through naming, suiting the concept of true names allowing power over an individual or being.
 
-4. The Sealskin
+**4. The Sealskin**
 
 
 

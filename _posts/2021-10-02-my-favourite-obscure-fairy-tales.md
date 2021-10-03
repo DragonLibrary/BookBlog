@@ -15,7 +15,15 @@ A story by Charles Perrault. A widow with two daughters, each taking on the pers
 
 **2. The Lady of the Elves**
 
-Collected by Jon Arnason, an Icelandic scholar from the nineteenth century.
+Collected by Jon Arnason, an Icelandic scholar from the nineteenth century. A lonely beautiful woman barters for shelter in exchange for work. For three years, the young woman works on the farm, only skipping the Christmas mass. A farmhand decides to follow her to discover why, and finds out she is the queen of a fairyland. Upon managing to prove it to the frustrated farmwife, a curse is broken, and the beautiful young woman is able to return to her husband and child in her own kingdom.
+
+**3. Gilitrutt**
+
+Another Icelandic tale. The oddly dressed imp completing an impossible task is replaced with a crone offering to spin wool for a lazy farmer's wife. Both feature enigmatic payments and salvation through naming, suiting the concept of true names allowing power over an individual or being.
+
+4. The Sealskin
+
+
 
 
 

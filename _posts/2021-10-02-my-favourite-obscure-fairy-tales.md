@@ -25,6 +25,10 @@ Another Icelandic tale. The oddly dressed imp completing an impossible task is r
 
 Selkies are mythic water-dwellers capable of shedding their animal skin to become humans. The story appears in Irish, Scottish and Icelandic tales. A young man sees a group come onto land and steals one. When the rest return to the ocean, a sole woman remains crying on the beach. The man marries her, they have children, life goes on. Years later, the selkie finds her hidden skin and returns to the ocean, either unable or unwilling to return to her wedded family. Some versions have her throwing fish and treasure into her husband's ship to support them and apologise to the children she left behind.
 
+**5. Little Brother and Little Sister**
+
+
+
 
 
 \*Disclaimer: This is based on personal experience; it may simply be that they are not commonly discussed around me, rather than simply being less spoken of.

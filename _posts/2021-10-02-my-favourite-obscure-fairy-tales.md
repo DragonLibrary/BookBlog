@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Favourite 'Obscure' Fairy Tales
+title: "'Obscure' Fairy Tales That Deserve Better, and Why"
 date: 2021-10-01T17:00:57.567Z
 title_color: "#ffffff"
 comments: false
@@ -27,7 +27,7 @@ Selkies are mythic water-dwellers capable of shedding their animal skin to becom
 
 **5. Little Brother and Little Sister**
 
-
+This Grimm tale combines *Hansel and Gretel* with *Cinderella*. Two siblings escape an abusive stepmother by entering the forest, where they make a life despite the brother having been enchanted into becoming a fawn. The sister marries the King, has a child and life is good. The stepmother kills her, replaces her with her own daughter, and the ghost of the dead Queen returns to visit her brother and newborn. Upon discovering this, the King is able to return the ghost to corporeal form. The stepmother and daughter are killed, and with their deaths the enchantment on the fawn is broken and he becomes human again.
 
 
 

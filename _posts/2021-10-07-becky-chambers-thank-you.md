@@ -7,4 +7,6 @@ comments: false
 tags:
   - ""
 ---
-Reading *The Long Way to a Small Angry Planet* was not the book I expected, and for that I am grateful. Although I had seen it many times over the years in digital shops, I had written it off as another book about how Earth was crumbling around us and the eventual, inevitable demise of humanity. Instead, it is an interplanetary, intersectional, intriguing
+Reading *The Long Way to a Small Angry Planet* was not the book I expected, and for that I am grateful. Although I had seen it many times over the years in digital shops, I had written it off as another book about how Earth was crumbling around us and the eventual, inevitable demise of humanity. Instead, it is an interplanetary, intersectional, intriguing science fiction. But it is the characters not the plot separating this novel from its genre contemporaries and predecessors; it is the characters Chambers introduces her audience to.
+
+The first of the Wayfarer series has the tone of a classic science fiction. A new person joins the crew of a ship.

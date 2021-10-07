@@ -15,4 +15,4 @@ This tweet is amusing in how typical it can be in the genre. Shared by @bookish.
 
 ![](../uploads/article11-misogynytweet.jpg)
 
-I had a similar thought upon the first conversation in the book- about the introduction of racism and xenophobia between species. A common trope. Yet Chambers makes a concious effort through the perspectives of multiple characters to make it clear that it is unacceptable among the crew and the GC (Wayfarer's equivalent of Star Trek's Federation or Star Wars senate), with some chapters making it a point to talk about how the immediate comparisons and othering are moved beyond quickly in most cases.
+I had a similar thought upon the first conversation in the book- about the introduction of racism and xenophobia between species. A common trope. Yet Chambers makes a conscious effort through the perspectives of multiple characters to make it clear that it is unacceptable among the crew and the GC (*Wayfarer*'s equivalent of Star Trek's Federation or Star Wars senate), with some chapters making it a point to talk about how the immediate comparisons and othering are moved beyond quickly in most cases.

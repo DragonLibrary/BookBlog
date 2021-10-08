@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becky Chambers, Thank You
+title: Thank You For The Change, Becky Chambers
 date: 2021-10-06T13:32:56.606Z
 title_color: "#ffffff"
 comments: false

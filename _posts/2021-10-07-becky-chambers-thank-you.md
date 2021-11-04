@@ -2,7 +2,7 @@
 layout: post
 title: Thank You For The Change, Becky Chambers
 date: 2021-10-06T13:32:56.606Z
-header_feature_image: ../uploads/article11.jpg
+header_feature_image: ../uploads/article11a.jpg
 title_color: "#ffffff"
 comments: false
 tags:

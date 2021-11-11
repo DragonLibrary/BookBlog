@@ -13,7 +13,15 @@ Once upon a time, people began to tell fairy tales... and they never stopped. Sh
 
 Take Duffy, for example. *The World's Wife* reimagines the female partners of famous men and tells the story from their, often rolling, eyes. The poet laureate's 1999 collection has been studied for A-Levels in the mid-2000s, and continues in educational relevance with *Feminine Gospel* succeeding it on the syllabus.
 
-Look into:
+* Pick a couple of specifics to go over, and talk over it generally.
+* Any major trends in the book. Can I link it to other examples (e.g. any similar stories to Gill or Lovelace?)
 
-* Amanda Lovelace
+Some authors, as Gill did, then use these tropes as a foundation for their own work in imagery and plots, either to make in relevant or to subvert it for effect.
+
+* Talk about Lovelace's fairy tale collection series.
+* Look into themes she pulls out in the collection.
+* How is she subverting the story.
+
+And it isn't just the published writers that use fairy tales as basis for their story.
+
 * That dragon poem, available at https://fioren-nights.tumblr.com/post/128616392320

@@ -26,6 +26,6 @@ And it isn't just the published writers that reimagine fairy tales that use the 
 
 ![](../uploads/article13-tumblrdragonpoem.png)
 
-The poem remains fairly similar in phrasing and style to standard storytelling, but adopts a number of modern internet poetry themes. The lack of typical capitalisation despite caesura; longer sentences than that of prose; use of standard, conversational lexicon rather than more formal specialist lexicon.
+The poem remains fairly similar in phrasing and style to standard storytelling, but adopts a number of modern internet poetry themes. The lack of typical capitalisation despite caesura; longer sentences than that of prose; use of standard, conversational lexicon rather than more formal specialist lexicon. All of these appear commonly in Instagram poetry as aspects of the genre.
 
 But how does this work in the more historical fairy tales? *The Goblin Market* is the most known poem of the genre, with Rossetti's 1862 work continuing to be republished even now.

@@ -11,10 +11,9 @@ Once upon a time, people began to tell fairy tales... and they never stopped. Sh
 
 *Fierce Fairytales* by Nikita Gill takes the traditional stories of childhood and retells them from alternative perspectives. The narratives humanise villains and return autonomy to previously passive or foolish protagonists. Captain Hook is seeking revenge for a callous teenage heartbreak; The Hatter's madness was induced by gaslighting; the princess was put in the tower to prevent her becoming the dragon. Gill takes classics of fairy tales and shapes them into feminist narrations. This fits the current trends of casting older stories in the moulds of contemporary ideals and perspectives, as well as that of retelling the stories from the antagonist's perspectives. The stories are shortened by this format, but still comparatively long when framed in context of the original pieces. And Gill inserts far more emotion into the narrative than the centuries-old versions. The stories become more personal and emotive than their inspirations. This is true of other works in the same position, be it her original stories or those of contemporary poets.
 
-Take Duffy, for example. The World's Wife 
+Take Duffy, for example. *The World's Wife* reimagines the female partners of famous men and tells the story from their, often rolling, eyes. The poet laureate's 1999 collection has been studied for A-Levels.
 
 Look into:
 
-* Carol Ann Duffy
 * Amanda Lovelace
 * That dragon poem

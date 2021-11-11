@@ -25,3 +25,5 @@ Some authors, as Gill did, then use these tropes as a foundation for their own w
 And it isn't just the published writers that use fairy tales as basis for their story.
 
 * That dragon poem, available at https://fioren-nights.tumblr.com/post/128616392320
+
+But how does this work in the more historical fairy tales? *The Goblin Market* is the most known poem of the genre, with Rossetti's 1862 work continuing to be republished even now.

@@ -26,7 +26,7 @@ And it isn't just the published writers that reimagine fairy tales that use the 
 
 ![](../uploads/article13-tumblrdragonpoem.png)
 
-The poem remains fairly similar in phrasing and style to standard storytelling, but adopts a number of modern internet poetry themes.
+The poem remains fairly similar in phrasing and style to standard storytelling, but adopts a number of modern internet poetry themes. The lack of typical capitalisation despite caesura; longer sentences than that of prose; greater use of standard, conversational lexicon than that of older and more traditional poetry.
 
 
 

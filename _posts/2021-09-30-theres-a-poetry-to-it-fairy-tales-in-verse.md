@@ -16,4 +16,4 @@ Take Duffy, for example. *The World's Wife* reimagines the female partners of fa
 Look into:
 
 * Amanda Lovelace
-* That dragon poem
+* That dragon poem, available at https://fioren-nights.tumblr.com/post/128616392320

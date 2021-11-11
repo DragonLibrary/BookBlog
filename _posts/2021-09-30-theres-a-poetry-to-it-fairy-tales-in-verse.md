@@ -22,8 +22,12 @@ Some authors, as Gill did, then use these tropes as a foundation for their own w
 * Look into themes she pulls out in the collection.
 * How is she subverting the story.
 
-And it isn't just the published writers that use fairy tales as basis for their story.
+And it isn't just the published writers that reimagine fairy tales that use the poem format. The [poem below](https://fioren-nights.tumblr.com/post/128616392320) is from Tumblr user fioren-nights and reimagines the classical trope of princess rescued from a dragon in a castle. fioren-nights considers the slayed dragon as a beloved companion of the princess.
 
-* That dragon poem, available at https://fioren-nights.tumblr.com/post/128616392320
+![](../uploads/article13-tumblrdragonpoem.png)
+
+The poem remains fairly similar in phrasing and style to standard storytelling, but adopts a number of modern internet poetry themes.
+
+
 
 But how does this work in the more historical fairy tales? *The Goblin Market* is the most known poem of the genre, with Rossetti's 1862 work continuing to be republished even now.

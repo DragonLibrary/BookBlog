@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: Welcome to the Library...
-subtitle: About the blog
+title: Welcome to the Library
+subtitle: ABOUT THIS BLOG
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page

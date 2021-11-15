@@ -22,7 +22,7 @@ Some authors, as Gill did, then use these tropes as a foundation for their own w
 * Look into themes she pulls out in the collection.
 * How is she subverting the story.
 
-And it isn't just the published writers that reimagine fairy tales that use the poem format. The [poem below](https://fioren-nights.tumblr.com/post/128616392320) is from Tumblr user fioren-nights and reimagines the classical trope of princess rescued from a dragon in a castle. fioren-nights considers the slayed dragon as a beloved companion of the princess.
+And it isn't just the published writers that reimagine fairy tales that use the poem format. The [poem below](https://fioren-nights.tumblr.com/post/128616392320) is from Tumblr user fioren-nights and reimagines the classical trope of princess rescued from a dragon in a castle. The blogger considers how the narrative of the story would change if the slayed dragon were to be a beloved companion of the princess.
 
 ![](../uploads/article13-tumblrdragonpoem.png)
 

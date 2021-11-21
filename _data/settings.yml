@@ -11,5 +11,5 @@ gridlayout: false
 fixednavbar: false
 upzoom: true
 items:
-  - name: /aboutme
+  - name: About Me
     siteurl: /aboutme

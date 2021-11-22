@@ -86,8 +86,8 @@ body {
 /* Main Text */
 .facts {
 	background-color: #EFEFEF;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
 }
 
 .facts p {
@@ -99,7 +99,7 @@ body {
 
 	max-width: 760px;
 	margin: 40px auto 40px auto;
-	padding: 0 10px 0 10px;
+	padding: 0 15px 0 15px;
 }
 
 /* Text Highlight Colour */

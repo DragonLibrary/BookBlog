@@ -8,7 +8,7 @@ body {
 
 /* ---- Introduction Section ---- */
 .introduction_section {
-	height: 575px;
+	height: 560px;
 	width: 100%;
 	background-image: url("background_library.jpg");
 	background-size: cover;

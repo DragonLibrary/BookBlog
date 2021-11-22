@@ -24,9 +24,9 @@ body {
 .profile_picture {
 	background-image: url("dragos_profile_pic.jpg");
 	background-position: center;
-	width: 280px;
-	height: 280px;
-	border: white 7px solid;
+	width: 265px;
+	height: 265px;
+	border: white 6px solid;
 	border-radius: 50%;
 	background-size: 105%;
 	margin-right: auto;

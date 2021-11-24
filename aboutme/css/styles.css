@@ -102,6 +102,13 @@ body {
 	padding: 0 15px 0 15px;
 }
 
+.subtitle p {
+	text-align: left;
+	color: #515151;
+	font-size: 30px;
+	font-weight: 350;
+	line-height: 40px;
+
 /* Text Highlight Colour */
 .highlight {
 	color: #0000FF;

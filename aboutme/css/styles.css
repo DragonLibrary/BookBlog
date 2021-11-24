@@ -82,15 +82,15 @@ body {
 
 
 
-/* ---- Facts ---- */
+/* ---- Elevator Pitch ---- */
 /* Main Text */
-.facts {
+.pitch {
 	background-color: #EFEFEF;
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
 
-.facts p {
+.pitch p {
 	text-align: left;
 	color: #515151;
 	font-size: 20px;

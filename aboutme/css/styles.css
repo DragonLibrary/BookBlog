@@ -111,7 +111,7 @@ body {
 	
 	max-width: 760px;
 	margin: 20px auto 20px auto;
-	padding: 0 15px 0 5px;
+	padding: 0px 15px 0px 5px;
 }
 
 .info_text p {
@@ -123,7 +123,7 @@ body {
 
 	max-width: 760px;
 	margin: 5px auto 5px auto;
-	padding: 0 5px 0 5px;
+	padding: 0px 5px 0px 5px;
 }
 
 /* Text Highlight Colour */

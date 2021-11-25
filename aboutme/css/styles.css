@@ -115,11 +115,13 @@ body {
 }
 
 .info_text p {
-	color: black;
+	text -align: left;
+	color: #515151;
 	font-size: 18px;
-	text-align: left;
+	font-weight: 30px;
+	
 	margin: auto auto auto auto;
-	padding: 2px;
+	padding: 2px auto 2px auto;
 }
 
 /* Text Highlight Colour */

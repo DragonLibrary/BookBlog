@@ -108,6 +108,7 @@ body {
 	font-size: 25px;
 	font-weight: 350;
 	line-height: 30px;
+	text-decoration: underline;
 	
 	max-width: 760px;
 	margin: 20px auto 20px auto;

@@ -114,7 +114,7 @@ body {
 	padding: 0 15px 0 5px;
 }
 
-.info_text {
+.info_text p {
 	color: black;
 	font-size: 18px;
 	text-align: left;

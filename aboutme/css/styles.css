@@ -35,29 +35,6 @@ body {
 /*This image of Dragos was found at http://seanconneryfan.ru/dragon.html*/
 
 
-/*  Rollover Image */
-    .figure {
-        position: relative;
-        width: 265px; 
-        max-width: 100%;
-    }
-    .figure img.image-hover {
-      image: url("dragos_profile_pic.jpg")
-      position: absolute center;
-      top: 0;
-      right: 0;
-      left: 0;
-      bottom: 0;
-      object-fit: contain;
-      opacity: 0;
-      transition: opacity .2s;
-    }
-    .figure:hover img.image-hover {
-      opacity: 1;
-    }
-
-
-
 /* Hello text */
 .hello_title {
 	color: #FFFAFA;

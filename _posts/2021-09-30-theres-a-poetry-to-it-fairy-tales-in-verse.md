@@ -18,11 +18,7 @@ Take Duffy, for example. *The World's Wife* reimagines the female partners of fa
 * Pick a couple of specifics to go over, and talk over it generally.
 * Any major trends in the book. Can I link it to other examples (e.g. any similar stories to Gill or Lovelace?)
 
-Some authors, as Gill did, then use these tropes as a foundation for their own work in imagery and plots, either to make in relevant or to subvert it for effect.
-
-* Talk about Lovelace's fairy tale collection series.
-* Look into themes she pulls out in the collection.
-* How is she subverting the story.
+Some authors, as Gill did, then use these tropes as a foundation for their own work in imagery and plots, either to make in relevant or to subvert it for effect. Amanda Lovelace, a published Internet poet like Gill, also uses fairytale imagery in her works, especially the *women are some kind of magic* collection from Andrews Mcmeel Publushing in 2016-19. The Big Bad Wolf, evil queen, dragons and mermaids and princesses and mirrors and flowers and shapeshifting all appear in her first collection *the princess saves herself in this one*. Yet Lovelace makes a point to clarify that these are not fairy tales. Her lengthy trigger warning forewarns of the dark content explored far more vividly and more emotive language than traditional tales. The wolf won't eat you, but they will consume you whole.
 
 And it isn't just the published writers that reimagine fairy tales that use the poem format. The [poem below](https://fioren-nights.tumblr.com/post/128616392320) is from Tumblr user fioren-nights and reimagines the classical trope of princess rescued from a dragon in a castle. The blogger considers how the narrative of the story would change if the slayed dragon were to be a beloved companion of the princess.
 

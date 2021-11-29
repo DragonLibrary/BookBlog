@@ -8,10 +8,6 @@ comments: false
 tags:
   - ""
 ---
-![](../uploads/1.png)
+Last year, Bella Pearson of Guppy Books agreed to an interview with me for a case study I was doing on a publishing house. The resulting document was an overview of her business and an analysis of its strengths and weaknesses as a company is the children's trade fiction sector. 
 
-![](../uploads/2.png)
-
-![](../uploads/3.png)
-
-![](../uploads/4.png)
+This is a recently updated version, edited to include title successes since that interview.

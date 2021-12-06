@@ -8,7 +8,7 @@ comments: false
 tags:
   - ""
 ---
-In 2017, I wrote my A-Level English Literature coursework on Stoker and Alderman and the use of violence in gender relations throughout their novels. Though I did (intentionally) misuse a quote by David Lasik, the essay still analysed victimisation in these books through the linguistic choices made in the contexts of their writing eras.
+In 2017, I wrote my A-Level English Literature coursework on the works of Bram Stoker, Naomi Alderman, and the use of violence in gender relations throughout their novels. Though I did (intentionally) misuse a quote by David Lasik to do so, the essay analysed victimisation in these books through the linguistic choices made in the contexts of their writing eras and the narratives of the stories.
 
 
 

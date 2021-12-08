@@ -57,3 +57,7 @@ Mark, J. J (2018) ‘Thor’, *World History Encyclopedia*, 17 December. Availab
 Martin, T. (2011) ‘You can’t deny it. Gender studies is full of male-blaming bias’, *The Guardian*, 14 September. Available at <https://www.theguardian.com/commentisfree/2011/sep/14/gender-studies-male-blaming-bias> (Accessed: 6 December 2021)
 
 Stoker, B. (1897) *Dracula*. Unknown : Amazon Classics (2017 edn).
+
+.
+
+Note: These dots are intentional, and for spacing purposes.

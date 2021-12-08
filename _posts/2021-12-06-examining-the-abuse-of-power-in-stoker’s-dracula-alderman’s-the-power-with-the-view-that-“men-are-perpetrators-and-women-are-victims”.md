@@ -3,6 +3,7 @@ layout: post
 title: "The Abuse of Power Between Genders in Stoker’s 'Dracula' and Alderman’s
   'The Power': An Essay"
 date: 2021-10-20T16:30:41.452Z
+header_feature_image: ../uploads/article13-header.jpg
 title_color: "#ffffff"
 comments: false
 tags:

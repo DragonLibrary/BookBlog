@@ -36,6 +36,8 @@ Moreover, the two novels placed these events relatively near the story’s openi
 
 It is true that traditionally “men are the perpetrators and women are victims” (Lasik, Unknown) due to the patriarchal structure of Western societies but this is not always the case, and certainly not the case in these novels- especially The Power, where all forms of traditional power are twisted and subverted. Both novels are didactic, exploring how it is possible to abuse power, and while the male characters in these texts are often “perpetrators” of violence, they are not always responsible for it. Nor is it true that the women are only the victims of this abuse; they are also capable of being those who abuse their power and harm the men.
 
+.
+
 ## **Bibliography**
 
 Alderman, N. (2016) *The Power*. London: Penguin.

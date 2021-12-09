@@ -33,6 +33,7 @@ body {
 	margin-left: auto;
 }
 
+/* Hover Image */
 .profile_overlay {
 	position: relative;
 	width: 100%;
@@ -54,7 +55,7 @@ body {
   width: 100%;
   opacity: 0;
   transition: .3s ease;
-  background-image: url("aboutme/css/dragos_profile_pic.jpg");
+  background-colour: white;
 }
 
 .profile_overlay .overlay {

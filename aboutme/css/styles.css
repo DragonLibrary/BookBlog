@@ -33,57 +33,6 @@ body {
 	margin-left: auto;
 }
 
-.profile_picture:hover {
-	background-image: url("dragos_profile_pic.jpg");
-}
-
-/* Hover Image */
-.profile_overlay {
-	background-position: center;
-	width: 265px;
-	height: 265px;
-	border: white 6px solid;
-	border-radius: 50%;
-	background-size: 105%;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.image {
-  width: 265px;
-  height: 265px;
-}
-
-.overlay {
-	background-position: center;
-	width: 265px;
-	height: 265px;
-	border: white 6px solid;
-	border-radius: 50%;
-	background-size: 105%;
-	margin-right: auto;
-	margin-left: auto;
-	background-colour: white;
-}
-
-.profile_overlay .overlay {
-  opacity: 1;
-}
-
-.icon {
-  color: white;
-  font-size: 100px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-.fa-user:hover {
-  color: #eee;
-}
 /*This image of Dragos was found at http://seanconneryfan.ru/dragon.html*/
 
 

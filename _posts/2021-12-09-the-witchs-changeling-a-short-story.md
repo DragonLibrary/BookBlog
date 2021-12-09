@@ -2,7 +2,7 @@
 layout: post
 title: "The Witch's Changeling: A Short Story"
 date: 2021-10-27T16:30:00.000Z
-header_feature_image: ../uploads/minecraft_witch_hut_by_algoinde_d8zs657-fullview.png
+header_feature_image: ""
 title_color: "#ffffff"
 comments: false
 tags:
@@ -110,4 +110,4 @@ Sekai’s lips twisted into a mockery of a grin.
 
 .
 
-Algoinde (2015) *Minecraft Witch Hut*. Available at: <https://www.deviantart.com/algoinde/art/Minecraft-Witch-Hut-543830299> (Accessed: 26 October 2021)
+freestocks (2017) *person decorating pumpkins*. Available at: <https://unsplash.com/photos/twVS-YjQn9Y> (Accessed: 27 October 2021)

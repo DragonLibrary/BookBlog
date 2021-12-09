@@ -5,7 +5,7 @@ date: 2021-10-27T16:30:00.000Z
 title_color: "#ffffff"
 comments: false
 tags:
-  - ""
+  - Fiction
 ---
 The bargain had been struck. A child for a better life.
 
@@ -35,7 +35,7 @@ The woman nodded, trembling hand reaching for the flask as though it were a snak
 
 Watching her haste to escape, the witch’s face hardened, seeing not one glance back at the boy in her arms. As if recognising his mother’s departure, the boy began to wail, cries piercing the forest. The witch drew him closer, and as she did, she straightened, and changed. Shadow fell from her face, talons retracted, the icy sheen melted upon meeting the inquisitive grey of the infant. A tubby hand reached out to grasp an ebony curl that slipped from the hood’s cover, a glazed look of wonder falling over his face as he wrapped it around his wrist, grip tightening when she sought to reclaim the strand. His face scrunched up. Eyes screwballed tight. The witch blew gently on his face, which softened into sleep, fist falling lax before being hidden in the blanket. A wave of the hand had the basket trailing behind them as the witch turned and vanished into the black of the trees.
 
-
+.
 
 When they emerged from the darkness, it was from a rainforest surrounding a lake beside a rondavel. Another woman stood by the lake lighting candles, flame flickering between her fingers. The witch snuck towards her, silent steps drawing her closer, until she stood directly behind her. She placed the boy in the basket, drew forth her claws, and grabbed the other woman’s shoulders, screeching into her ear,
 
@@ -59,7 +59,7 @@ The three went inside the round hut, pausing inside the threshold before the doo
 
 “Set up the candles, my pretty. They are growing impatient. We cannot keep disappointing them.”
 
- 
+.
 
 Night had fallen. Sekai strode in a circle, flames trailing where she stepped, brandishing a broom in one hand, the grain indenting her palm. The baby slept in a ring of rowan, cradled…unaware. Sekai’s familiar, Fatou, sat at Darya’s feet, grooming her tail and occasionally flinging leaf litter at the fire as her witch began to chant, tossing objects into the ring as she retraced her steps. Darya stood, soundless; eyes fixed on the centre of the flames in anticipation. With every pause, her fist clenched a little tighter, flinching into the empty air. At last, silence echoed in the clearing.
 
@@ -86,8 +86,6 @@ The once-man tilted his head, darkness swelling from his pupil like ink in water
 “It is rare to see another creature of the sea this far from its reach. Where is your skin, selkie? Why do you not swim with your sisters?”
 
 “Leave her, Crakcry. My companion is to be left alone- she is not a toy for your amusement. The boy is the reason you came, so do not dally and test my long-suffering patience. Bring Forved with you- unsupervised warlocks are not permitted in my territory,” came Sekai’s cutting reproach from by the cradle, her shadow tugging at their own to pull them along.
-
- 
 
 The four adults stood around the boy, the men looking at him, the women looking at the men, all eyes flitting over the subject of their gaze in search of something. At last, Forved reached down towards the boy, hissing when his hand touched the rowan, before Darya collected the child and handed him to Crakcry, the other man cradling his singed appendage. Two faces relaxed when the boy’s eyes opened as his mouth stretched into a yawn before he peered at the two. When a tiny hand reached up, Forved lifted a finger towards it, mouth melting into a slightly-too-wide grin as it was enclosed in the baby’s fist. The baby shifted in Crakcry’s grip, almost falling. Everyone lunged. Hands surged towards him. But Crakcry recovered from the wiggle, regaining his grip. Bouncing the boy on his hip, his *kærasti* reclaiming the boy’s hand. The boy began to spit up as he giggled, other arm flailing wildly in his glee.
 

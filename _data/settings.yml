@@ -6,7 +6,7 @@ header_text: All books are ink-stained; spill digital ink about them.
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 logo: ../uploads/bloglogo-version2.jpg
-favicon: /uploads/favicon.ico
+favicon: ../uploads/bloglogo-version2.jpg
 gridlayout: false
 fixednavbar: false
 upzoom: true

@@ -34,7 +34,7 @@ body {
 }
 
 .profile_picture:hover {
-	background-image: url("css/dragos_profile_pic.jpg");
+	background-image: url("dragos_profile_pic.jpg");
 }
 
 /* Hover Image */

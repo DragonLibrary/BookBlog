@@ -35,9 +35,14 @@ body {
 
 /* Hover Image */
 .profile_overlay {
-	position: relative;
-	width: 100%;
-	max-width: 400px;
+	background-position: center;
+	width: 265px;
+	height: 265px;
+	border: white 6px solid;
+	border-radius: 50%;
+	background-size: 105%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .image {

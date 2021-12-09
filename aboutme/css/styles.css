@@ -51,16 +51,16 @@ body {
 }
 
 .overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .3s ease;
-  background-colour: white;
+  background-image: url("profile_pic_me.jpg");
+	background-position: center;
+	width: 265px;
+	height: 265px;
+	border: white 6px solid;
+	border-radius: 50%;
+	background-size: 105%;
+	margin-right: auto;
+	margin-left: auto;
+	background-colour: white;
 }
 
 .profile_overlay .overlay {

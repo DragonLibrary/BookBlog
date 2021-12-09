@@ -2,7 +2,7 @@
 layout: post
 title: "The Witch's Changeling: A Short Story"
 date: 2021-10-27T16:30:00.000Z
-header_feature_image: ""
+header_feature_image: ../uploads/article14-headerimage.jfif
 title_color: "#ffffff"
 comments: false
 tags:

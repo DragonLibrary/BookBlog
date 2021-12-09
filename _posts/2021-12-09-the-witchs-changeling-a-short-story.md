@@ -107,3 +107,7 @@ Crakcry’s voice was soft as he stroked the head nestled into his chest.
 Sekai’s lips twisted into a mockery of a grin.
 
 “I simply make an offer they cannot refuse.”
+
+.
+
+Algoinde (2015) *Minecraft Witch Hut*. Available at: <https://www.deviantart.com/algoinde/art/Minecraft-Witch-Hut-543830299> (Accessed: 26 October 2021)

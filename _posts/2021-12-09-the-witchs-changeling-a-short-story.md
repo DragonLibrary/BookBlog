@@ -2,6 +2,7 @@
 layout: post
 title: "The Witch's Changeling: A Short Story"
 date: 2021-10-27T16:30:00.000Z
+header_feature_image: ../uploads/minecraft_witch_hut_by_algoinde_d8zs657-fullview.png
 title_color: "#ffffff"
 comments: false
 tags:

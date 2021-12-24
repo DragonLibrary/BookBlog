@@ -2,6 +2,7 @@
 layout: post
 title: "In The Flesh: An Excerpt"
 date: 2021-11-03T17:00:42.465Z
+header_feature_image: ../uploads/article15-headerimage-unsplash-by-thisisengineeringraeng-.jfif
 title_color: "#ffffff"
 comments: false
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I've Stopped Feeling Guilty About My TBR
-date: 2021-12-24T19:00:42.646Z
+date: 2021-11-10T17:00:42.646Z
 title_color: "#ffffff"
 comments: false
 tags:

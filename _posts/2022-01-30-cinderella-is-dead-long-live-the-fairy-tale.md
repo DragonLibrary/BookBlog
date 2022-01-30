@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Cinderella Is Dead': Long Live the Fairy Tale"
+title: "'Cinderella Is Dead' Review"
 date: 2022-01-05T18:00:44.883Z
 title_color: "#ffffff"
 comments: false

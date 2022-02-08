@@ -10,7 +10,7 @@ tags:
 ---
 *Cinderella Is Dead* by Kalynn Bayron is a sapphic reimagining of the classic story- a dystopian hellscape hiding in the wings of fairytale romance. It was far from my first fairy tale reimagining, nor even my first women-loving-women (wlw) *Cinderella*, but it was still enjoyable. It didn't draw me in as many stories do, but the choices in the storytelling that frustrated me make sense to the plot.
 
-[Note- this does contain specific spoilers. For a spoiler-free review, please visit [here](https://brookesbroadcasts.com/2022/02/08/cinderella-is-dead-review-spoiler-free/).]
+[Note- this does contain spoilers. For my spoiler-free review of this book, please visit [here](https://brookesbroadcasts.com/2022/02/08/cinderella-is-dead-review-spoiler-free/).]
 
 **The Relationships**
 

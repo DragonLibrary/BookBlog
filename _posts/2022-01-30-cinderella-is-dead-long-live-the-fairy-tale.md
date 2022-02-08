@@ -32,7 +32,7 @@ The story was an enchanting read. A young girl escapes the ball facilitating for
 
 It was also the contrast against *Ash* that made me realise how much better a lesbian Cinderella could be. Having been released a decade earlier, *Ash*’s Cinderella story was more typically fantasy, with a love triangle between protagonist, fairy, and royal huntress. But when it came to the actual courtship or even dynamic between the sapphic characters, Lo fell flat in developing anything stimulating in the relationships. (Granted, at the time of reading my ability to sense romance between characters was limited, but others had similar complaints about the book.) *Cinderella Is Dead* has a character who knows and accepts her sexual identity and is not ashamed to pursue romantic attractions, even in the restrictive society in which she was raised. Ash only truly wove that in in the final chapters of the book, leaving far too much of the book to abusive stepmother and predatory older man.
 
-In a way, it took having read Enchanted and Ash to truly appreciate the best of Cinderella Is Dead, even if it did slightly impede the ability of the book to captivate me as it would have had they been read in a different order.
+In a way, it took having read *Enchanted* and *Ash* to truly appreciate the best of Cinderella Is Dead, even if it did slightly impede the ability of the book to captivate me as it would have had they been read in a different order.
 
 **Final Thoughts**
 

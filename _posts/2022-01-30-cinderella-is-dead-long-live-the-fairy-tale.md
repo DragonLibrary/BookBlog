@@ -1,28 +1,50 @@
 ---
 layout: post
 title: "'Cinderella Is Dead' Review- Includes Spoilers"
-date: 2022-01-05T18:00:44.883Z
+date: 2022-02-09T18:00:44.883Z
 title_color: "#ffffff"
 comments: false
 tags:
   - ""
 ---
-Last year I read *Cinderella Is Dead*, a sapphic reimagining of the classic fairy tale. It was not my first sapphic Cinderella or fairy tale reimagining, but it was still enjoyable. It didn't draw me in as many stories do despite my understanding of the choices in the storytelling.
+*Cinderella Is Dead* by Kalynn Bayron is a sapphic reimagining of the classic story- a dystopian hellscape hiding in the wings of fairytale romance. It was far from my first fairy tale reimagining, nor even my first women-loving-women (wlw) *Cinderella*, but it was still enjoyable. It didn't draw me in as many stories do, but the choices in the storytelling that frustrated me make sense to the plot.
 
-##### The relationships
+\[Note- this does not contain specific spoilers, but does have vague plot notes in relation to points being made and popular tropes. These are in square brackets.]
 
-I am not sapphic, so I cannot judge the romantic relationships in that way, but I can as a reader. And they were frustrating! Homophobia infiltrates every relationship Sophia has, from familial to romantic and everything inbetween. It fits the intensely patriarchal and misogynistic world Bayronn constructs, and does reflect an unfortunately common experience for non-cishet individuals, so its inclusion made sense. But it was so frustrating that it wasn't until she left the society that shunned her that she escaped this. True, it did add to the sense of safety with the love interest, so it makes sense, but not having one relationship in her life she could depend upon was not expected or welcome to me as a reader.
+ 
 
-And it took so long for the relationship to get good. The original love interest maddened me. She had internalised that homophobia in a way that it became a weapon against the protagonist, which made me worry they would be the book's OTP. Erin needed to sort herself out and Sophia deserved a relationship where she could be upfront about who she is- something Erin wouldn't and/or couldn't do. The second relationship was better, but took so long to reach because of my second problem with it.
+**The Relationships**
 
-##### The plot and finale
+Speaking as a reader, rather than a dating expert, the social connections in this book were frustrating! Homophobia infiltrates every relationship Sophia has, from familial to romantic and everything inbetween. It fits the intensely patriarchal and misogynistic world Bayron constructs, and reflects an unfortunately common experience for non-cishet individuals, so its inclusion made sense. But it was infuriating that the respite from this \[a strangers-to-lovers relationship] took so long to come to fruition. While it added to the sense of safety with the love interest, not having one relationship in her life she could depend upon was not expected or welcome to my reading tastes.
 
-It was long. It took ten chapters to get good. I read it for my dissertation and because I was expecting to enjoy it based on the word-of-mouth I'd heard. The book itself was not a long book, but because I wasn't truly drawn into the romances of the book (the first because of the borderline-toxicity of it, the second because it was so tentative and unsure of itself) it failed to pull me in as others have.  The story itself was enjoyable, it just took to long to hook me. If it had taken another chapter, I may well have DNFd the book.
+And it took so long for the relationship to flourish! Erin, the original love interest, was maddening. She had internalised homophobia and weaponised it against the protagonist, creating a hopeless unbalanced relationship. Erin needed to deconstruct this, and Sophia deserved a relationship where she could be upfront about who she is- something Erin wouldn't and/or couldn't do. The relationship with Constance was better, but took so long to reach because of my second problem with it.
 
-The story was good. A young girl attempts to bring down a tyrant after living under his dreadful rule and seeing the gruesome death of a close friend and mistreatment of others. She flees to the forest, where she encounters the descendant of Cinderella's stepsister and they travel to find the Fairy Godmother with magic capable of bringing down the King, growing closer as this adventure progresses. This plotline however, was too close to another fairytale story I had read previously- *Enchanted* by Alethea Kontis, for those interested. Though they were based on very different stories, the plan of seeking a fairy godmother to defeat the king while learning to accept yourself and protecting those you care for was too close, especially when the plot twist was that the fairy godmother was helping steal life from women to fuel the immortality of the tyrant.
 
-##### Why I Enjoyed It Despite This
 
-*Cinderella Is Dead* was still a good book. It had a good book with a lovable protagonist you want to succeed. The love interest had an actual character with their own motivation who did not depend  on the protagonist to rescue her or act as only as a conduit for the main character's development.
+**The Plot and Finale**
 
-It was also the contrast against *Ash* that made me realise how much better a lesbian Cinderella could be.
+It dragged. Took ten chapters to get good. The book itself was not long, but because the romances of the book were not especially enthralling (the first because of the borderline-toxicity of it, the second because it was so tentative and unsure of itself) it failed to captivate as others have. The story itself was enjoyable, it just took too long to hook me. It was almost a DNF.
+
+The story was an enchanting read. A young girl escapes the ball facilitating forced marriages after escaping a terrible situation and stumbling into a horrifying discovery. She flees guards and certain death, racing to the woods and meeting Constance, a descendant of Cinderella’s step-sister. The two then commit to the plot of most dystopian YA- bringing down a tyrannical kingdom. A solid premise with a great deal open to it and much opportunity for exploration between author, reader, and character.
+
+*Cinderella Is Dead*, however, was too close to another fairytale story I had read previously- *Enchanted* by Alethea Kontis, for those interested. Though they were based on very different stories, the plan reached by the girls on how to defeat the king was too close to that of Kontis’ work, especially when the plot twists mirrored one another. In all fairness though, Bayron’s reveal of that twist surpassed that of Kontis, as did the story’s ability to evoke emotion in the reader. It was simply the similarities in the texts that failed to engulf me as a reader- felt too similar to a re-read at points rather than a fresh story.
+
+
+
+**Why I Enjoyed It Despite This**
+
+*Cinderella Is Dead* was still a good book. It had a solid premise with a lovable protagonist the reader could truly root for. The second \[aka main] love interest had an actual character with their own motivation who did not depend on the protagonist to rescue her or act as only as a conduit for the main character's development. Interactions were not merely an excuse to elevate or disparage Sophia, despite the overwhelming flavour of homophobia invoked by many of them. And had I not read Enchanted previously, the twist near the finale would have been a gripping, gasp-worthy revelation. Overall, it was an excellent text, simply not to my particular tastes.
+
+It was also the contrast against *Ash* that made me realise how much better a lesbian Cinderella could be. Having been released a decade earlier, Ash’s Cinderella story was more typically fantasy, with a love triangle between protagonist, fairy, and royal huntress. But when it came to the actual courtship or even dynamic between the sapphic characters, Lo fell flat in developing anything stimulating in the relationships. (Granted, at the time of reading my ability to sense romance between characters was limited, but others had similar complaints about the book.) *Cinderella Is Dead* has a character who knows and accepts her sexual identity and is not ashamed to pursue romantic attractions, even in the restrictive society in which she was raised. Ash only truly wove that in in the final chapters of the book, leaving far too much of the book to abusive stepmother and predatory older man.
+
+In a way, it took having read Enchanted and Ash to truly appreciate the best of Cinderella Is Dead, even if it did slightly impede the ability of the book to captivate me as it would have had they been read in a different order.
+
+ 
+
+**Final Thoughts**
+
+**3.75 stars**. Bayron produced a charming lesbian *Cinderella* that felt different to previous iterations, even without the sapphic elements, and had an appealing plot that has ensnared many readers and would have captivated me had I read fewer fairy tale stories previously.
+
+Would I recommend it?: Yes.
+
+<!--EndFragment-->
